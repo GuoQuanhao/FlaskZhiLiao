@@ -14,5 +14,5 @@ MAIL_SERVER = "smtp.qq.com"
 MAIL_USE_SSL = True
 MAIL_PORT = 465
 MAIL_USERNAME = "haohao_a@qq.com"
-MAIL_PASSWORD = "cvkrqkedtrfxbfbf"  # SMTP服务授权码
+MAIL_PASSWORD = "xxxxxxxxxxxxxxxx"  # SMTP服务授权码
 MAIL_DEFAULT_SENDER = "haohao_a@qq.com"
